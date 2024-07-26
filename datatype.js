@@ -50,3 +50,5 @@ console.log("1" + 2 + 2) // output 122 bcz fisrt string than convert all in stri
 console.log(1 + 2 + "2") // output 32 bcz fisrt int than convert all in int 
 
 
+
+//JavaScript ek dynamic type language hai. Iska matlab hai ki variables ki types runtime par decide hoti hain, compile time par nahi. Yaani, aap kisi variable ko bina uski type specify kiye use kar sakte hain aur runtime par uski type badal bhi sakte hain.
